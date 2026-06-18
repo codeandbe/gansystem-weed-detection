@@ -8,8 +8,8 @@ This project was developed to automatically identify weeds within bean farms usi
 
 ## Dataset
 
-* 36 agricultural images
-* 334 annotated objects
+* 213 agricultural images
+* 2334 annotated objects
 * Classes:
 
   * Bean
