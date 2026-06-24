@@ -53,7 +53,7 @@ This project explores the use of AI-powered object detection models to automatic
 
 ### Dataset Overview
 
-![Dataset Overview](screenshots/dataset-overview.png)
+![Dataset Overview](screenshots/dataset-analytics.png)
 
 The dataset contains 213 agricultural images with 2,334 manually annotated objects distributed across two classes: Bean and Weed.
 
@@ -114,7 +114,7 @@ The weed detection model was trained using the Roboflow ecosystem and deployed a
 
 ### Performance Results
 
-![Model Results](screenshots/model-performance.png)
+![Model Results](screenshots/model.png)
 
 The model achieved strong recall performance, demonstrating effectiveness in identifying weed instances within agricultural imagery.
 
